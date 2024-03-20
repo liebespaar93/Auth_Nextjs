@@ -65,3 +65,9 @@ npx eslint .
 # or 
 npm run lint
 ```
+
+> [!NOTE]
+> eslint 의 여러가지 rule을 설정할 수 있다 아래링크를 참고하면 무슨 말인지 알 수 있다.
+
+🔗 링크 : <https://eslint.org/docs/latest/rules/no-multi-spaces>
+
